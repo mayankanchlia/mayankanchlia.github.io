@@ -1,0 +1,51 @@
+logo: # add logo name
+title: About me
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Banner settings
+video: mountains.mp4 # add banner video. Add your video file to the folder video
+banner-title: # add banner title
+banner-desc: # add banner description
+
+# Author settings
+author-pic: mayank_photo.jpg # your photo
+author-name: mayank anchlia # your name
+about-author: # about author
+email: mayank.anchlia@gmail.com # your email
+website: 
+
+# Social link
+
+twitter_url:   https://twitter.com/mayankanchlia
+instagram_url: https://instagram.com/mayankanchlia
+facebook_url:  https://facebook.com/mayankanchlia
+github_url:  https://github.com/mayankanchlia
+# Disqus
+# Newslette
+mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+# Tracker
+analytics:
+
+# Paginate
+paginate: 12
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

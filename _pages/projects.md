@@ -45,4 +45,4 @@ B) Given an image of a person's upper body and hand, locate the hand and classif
 image processing operations like filtering, thresholding, color segmentation etc. were not allowed. We performed geometric operations like scaling,
 rotating or cropping and conversion to gray-scale. We used the Scikit-Image library for this
  
-For more details, please refer to my [resume]({{site.url}}files/Resume.pdf) or contact me. 
+For more details, please refer to my [resume]({{site.url}}/files/Resume.pdf) or contact me. 

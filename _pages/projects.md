@@ -30,19 +30,17 @@ realization.
 
 **Course projects/Initiatives**  
 * **Samsung Research Institute Bangalore**
-○ Source Code Translation from Microsoft UWP to Tizen Platform
-○ Designed and developed a toolkit to automatically translate the application code from one platform to another specifically Microsoft UWP to Tizen Platform
-○ The work was based on Roslyn, XAML, C#
+○ Source Code Translation from Microsoft UWP to Tizen Platform  
+○ Designed and developed a toolkit to automatically translate the application code from one platform to another specifically Microsoft UWP to Tizen Platform  
+○ The work was based on Roslyn, XAML, C#  
 * **3D modelling and navigation in VR using Leap Motion Sensor.**
-○ Created a more intuitive way to interact with a computer in VR using Leap Motion Sensor to track hands, and sensor data of a mobile phone to localize hands, track head and set the orientation of the player.
+○ Created a more intuitive way to interact with a computer in VR using Leap Motion Sensor to track hands, and sensor data of a mobile phone to localize hands, track head and set the orientation of the player.  
 ○ It detects Hand gestures to track inputs from the user and recognizes it. 
-○ Used Unity game engine to design the application
+○ Used Unity game engine to design the application  
 
 * **Sign language and gesture recognition**
-○ The objective of the project was to build a classifier to solve the following problems
-A) Given an image of a static gesture, predict what alphabet it represents.
-B) Given an image of a person's upper body and hand, locate the hand and classify the gesture. Since this project was a part of the ML course,
-image processing operations like filtering, thresholding, color segmentation etc. were not allowed. We performed geometric operations like scaling,
-rotating or cropping and conversion to gray-scale. We used the Scikit-Image library for this
+○ The objective of the project was to build a classifier to solve the following problems  
+A) Given an image of a static gesture, predict what alphabet it represents.  
+B) Given an image of a person's upper body and hand, locate the hand and classify the gesture. Since this project was a part of the ML course, image processing operations like filtering, thresholding, color segmentation etc. were not allowed. We performed geometric operations like scaling, rotating or cropping and conversion to gray-scale. We used the Scikit-Image library for this  
  
 For more details, please refer to my [resume]({{site.url}}/files/Resume.pdf) or contact me. 
